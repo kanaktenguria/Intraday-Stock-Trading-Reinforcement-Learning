@@ -1,2 +1,7 @@
 # Intraday-Stock-Trading-Reinforcement-Learning
 Stock trading environment for reinforcement learning with visual state representation.
+
+In this study, we are developing a reinforcement learning-based strategy for theintraday trading of stocks.  This study’s primary goals include developing an envi-ronment that can be used as a simulator for the day trading stock market and, trainan agent to trade in this environment by performing actions and finding the optimalpolicy to maximize its reward.This study also focuses on experimentation with different state representationsto understand how data representation affects the learning system.  We have exper-imented with three different state representations.  All the representations focus onpresenting the intraday stock data as images.  We have chosen images rather thannumerical data as our state representative to make it human interpretable.  We wantthe agent to learn the insights from patterns and trends and apply that knowledge tomake a profit, just like a seasoned human trader.  We have also experimented withtwo different learning algorithms, the effects of exploration rate decay and the effectsof reward penalty.
+
+**IMPORTANT**
+This is an ongoing study so I have not uploaded the whole code. I hope you understand. Please contact me on LinkedIn at https://www.linkedin.com/in/kanaktenguria/ if you need help with something and I'll be more than happy to assist you. Have a nice day!
